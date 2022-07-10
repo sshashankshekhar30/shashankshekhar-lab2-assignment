@@ -40,7 +40,7 @@ hence target is not achieved.
 -----------------------------------------------------------------------------------------------------------
 
 
-#Quetion 2 :
+Quetion 2 :
 
 You are a traveler and traveling to a country where the currency denominations are
 unknown and as you travel, you get to know about the denomination in random order.
