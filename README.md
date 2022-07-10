@@ -34,7 +34,7 @@ Enter the value of target
 101
 Given target is not achieved
 
-#Explanation
+Explanation
 Since there is only 1 transaction that is of 100 and the target value is 101,
 hence target is not achieved.
 -----------------------------------------------------------------------------------------------------------
